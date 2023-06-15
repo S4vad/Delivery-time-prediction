@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+container{
+    height: 1024px;
+    width: 1440px; 
+    color:rgb(244, 234, 234);
+}
+
+.navbar{
+    width: 100%;
+    
+    margin: auto;
+    display: flex;
+    align-items: center;
+    
+
+    
+}
+.logo{
+    width: 2in;
+    height: 2in;
+    margin-top: 30px;
+    margin-left: 40px;
+  
+}
+
+nav{
+    flex:1;
+    padding-left:700px;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 30px;
+    font-size: 20px;
+    
+
+
+}
+nav ul li a{
+    text-decoration: none;
+    color:orangered;
+
+
+}
+
+nav ul li a:hover{
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    padding:10px;
+
+}
+
+
+
+
+
+
+
+.form{
+    font-size: 25px;
+    color:black;
+    margin-left: 500px;
+    margin-top: 100px;
+    
+
+
+}
+
+.submit{
+    font-size: 20px;
+    width: 300px;
+    height: 35px;
+    color: #000;
+    background-color:orangered ;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
