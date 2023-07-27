@@ -28,5 +28,22 @@ Getting Started
 1.Clone the repository:
   ```bash
 https://github.com/S4vad/Delivery-time-prediction-ANN-Django.git
+```
+
+2.Create and activate a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate  # Windows
+```
+
+# Acknowledgments
+This project was inspired by the need for accurate delivery time predictions to improve logistics efficiency.
+Special thanks to the contributors and maintainers of Django, TensorFlow, and NumPy for their fantastic open-source projects.
+
+# Contact
+For any inquiries or questions, please contact us at 8594savad8594@gmail.com.
+
+Happy predicting!
 
 
