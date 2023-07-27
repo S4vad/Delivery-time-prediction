@@ -27,6 +27,6 @@ Getting Started
 
 1.Clone the repository:
   ```bash
-# Introduction
+https://github.com/S4vad/Delivery-time-prediction-ANN-Django.git
 
 
