@@ -8,25 +8,26 @@ Food Delivery services like Zomato and swiggy etc... <br>need to show the accura
 
 
 # Introduction
-This is a project that utilizes Artificial Neural Networks (ANN) to predict delivery times for a given set of parameters. The project is implemented using Django, a powerful Python web framework, to provide a user-friendly interface for users to interact with the delivery time prediction model.
+This is a project that utilizes Artificial Neural Networks (ANN) to predict delivery times for a given set of parameters.
+The project is implemented using Django, a powerful Python web framework,
+to provide a user-friendly interface for users to interact with the delivery time prediction model.
 
 # Requirements
 To run this project, you need the following software installed on your system:
 
-Python (>= 3.6)
-Django (>= 3.0)
-NumPy
-Pandas
-Scikit-learn
-TensorFlow (>= 2.0)
+Python (>= 3.6).
+Django (>= 3.0).
+NumPy.
+Pandas.
+Scikit-learn.
+TensorFlow (>= 2.0).
 
 # Getting Started
 
 Getting Started
 
 1.Clone the repository:
-```bash
-
+  ```bash
 git clone https://github.com/your-username/delivery-time-prediction.git
 cd delivery-time-prediction
 
